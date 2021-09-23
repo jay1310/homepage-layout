@@ -108,12 +108,12 @@ a{
 }
 
 .s2-heading{
-    font-size: 250%;
-    font-weight: 700;
+    font-size: 280%;
+    font-weight: 800;
     text-align: center;
 }
 .s2-subheading{
-    font-size: 20px;
+    font-size: 150%;
     font-weight: 600;
     margin-top: 20px;
     margin-bottom: 30px;
@@ -121,4 +121,79 @@ a{
 .s2-txt{
     width: 70%;
     font-size: 22px;
+}
+
+.section-3{
+    margin-top: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.s3-1{
+    margin-top: 80px;
+}
+.s3-1-heading{
+    font-size: 280%;
+    font-weight: 600;
+}
+.s3-1-txt{
+    margin-left: 5px;
+    margin-right: 100px;
+    width: 70%;
+    font-size: 120%;
+}
+
+.section-4{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.s4-1-heading{
+    font-size: 280%;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.s4-1-txt{
+    margin-left: 5px;
+    margin-right: 100px;
+    width: 80%;
+    font-size: 140%;
+}
+.s4-right{
+    background-color:rgb(237, 234, 234);
+    padding: 20px;
+}
+.form-heading{
+    font-size: 200%;
+    font-weight: 600;
+}
+.textarea{
+    height: 140px;
+}
+input{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    height: 60px;
+    padding-top: 50px;
+}
+
+input::-webkit-input-placeholder {
+    font-size: 30px;
+}
+
+.submit{
+    height: 60px;
+    width: 200px;
+    font-size: 200%;
+    background-color: rgb(207, 202, 202);
+}
+
+.section-5{
+    height: 180px;
+    background-color: rgb(207, 202, 202);
+}
+.footer{
+    height: 100px;
+    background-color: grey;
 }
